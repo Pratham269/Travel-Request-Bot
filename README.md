@@ -49,4 +49,4 @@ Prathmesh Shimpi
 
 Gaurav Bggal
 
-📫 LinkedIn: www.linkedin.com/in/prathamesh-shimpi-583922247
+📫 LinkedIn: https://www.linkedin.com/in/gaurav-bagal-/
