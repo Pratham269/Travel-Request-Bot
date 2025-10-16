@@ -29,10 +29,10 @@ This project showcases an **intelligent Travel Request Bot** designed to automat
    - Allows administrators to generate reports to analyze request trends, approval times, and workflow efficiency.  
 
 ## 💻 Tech Stack
-- Python  
-- Email Automation Libraries  
-- Database Integration  
-- Logging Framework  
+- Automation Edge Precess Studio
+- Robotics Process Automation
+- Database (PostgrwsSQL)
+- Logging Framework
 
 ## ✨ Impact
 - Streamlines travel request workflow, reducing manual intervention  
@@ -44,3 +44,9 @@ This project showcases an **intelligent Travel Request Bot** designed to automat
 
 ## 🖊 Author
 Prathmesh Shimpi  
+
+📫 LinkedIn: www.linkedin.com/in/prathamesh-shimpi-583922247
+
+Gaurav Bggal
+
+📫 LinkedIn: www.linkedin.com/in/prathamesh-shimpi-583922247
